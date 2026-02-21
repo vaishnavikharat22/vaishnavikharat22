@@ -1,6 +1,6 @@
 Heyy, I'm Vaishnavi!
 
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Spring Boot backend projects and improving my React skills<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about :Java, Spring Boot, SQL, and Web Development<br><br>📫 How to reach me vaishnavikharat41@gmail.com<br><br>⚡ Fun fact : Making moves on stage, making fixes in code.
 
 
